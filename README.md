@@ -4,19 +4,19 @@
 - 👀 🌱 I’m interested in & currently learning
 
   - Programming Language / Methodology
-  -- Java(~8), JavaScript(ES5), HTML5, CSS3
+    - Java(~8), JavaScript(ES5), HTML5, CSS3
 
   - Framework / Library
-  -- Spring Framework, Spring Boot, jQuery, Thymeleaf
+    - Spring Framework, Spring Boot, jQuery, Thymeleaf
 
   - Server
-  -- PostgreSQL, MySQL, Elasticsearch, InfluxDB, Apache, Tomcat, Docker, Kubernates
+    - PostgreSQL, MySQL, Elasticsearch, InfluxDB, Apache, Tomcat, Docker, Kubernates
 
   - Tooling / DevOps
-  -- Jenkins, Github, maven, bash, Jira, Confluence, Slack
+    - Jenkins, Github, maven, bash, Jira, Confluence, Slack
 
   - Environment
-  -- Linux, AWS
+    - Linux, AWS
   
 
 - 📫 How to reach me 
