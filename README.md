@@ -4,10 +4,10 @@
 - 👀 🌱 I’m interested in & currently learning
 
   - Programming Language / Methodology
-    - Java(~8), JavaScript(ES5), HTML5, CSS3
+    - Java(~11)
 
   - Framework / Library
-    - Spring Framework, Spring Boot, jQuery, Thymeleaf
+    - Spring Framework, Spring Boot
 
   - Server
     - PostgreSQL, MySQL, Elasticsearch, InfluxDB, Apache, Tomcat, Docker, Kubernates
