@@ -1,26 +1,48 @@
-- 👋 Hi, I’m Young Han Kim
+- 👋 Introduction
 
+  - 안녕하세요. 3년차 개발자 김영한입니다. (2019.01 ~) 
+ 
+  - Java, Spring 으로 백엔드 개발을 합니다. 
 
-- 👀 🌱 I’m interested in & currently learning
+  - 2021년 8월 현재, 위 기술과 더불어 RDBMS, Elasticsearch, InfluxDB, Docker, Nginx 등의 기술을 쓰고 있습니다. 
 
-  - Programming Language / Methodology
-    - Java(~11)
+  - 유지 보수성을 생각한 코드, 리팩토링, TDD를 중요시합니다. 
 
-  - Framework / Library
-    - Spring Framework, Spring Boot
+  - 여가 시간은 독서와 홈트레이닝으로 보내고 있습니다. 
 
-  - Server
-    - PostgreSQL, MySQL, Elasticsearch, InfluxDB, Apache, Tomcat, Docker, Kubernates
+- 🔨 Skills 
 
-  - Tooling / DevOps
-    - Jenkins, Github, maven, bash, Jira, Confluence, Slack
+  - Backend
 
-  - Environment
-    - Linux, AWS
-  
+    - Java(~11), Spring Framework, Spring Boot, Spring Security, Spring REST Docs, Spring Data JPA
 
-- 📫 How to reach me 
+    - JPA, Querydsl 
+
+    - JUnit5, JUnit4, Mockito 
+
+    - Elasticsearch, Filebeat, Logstash, Kibana, InfluxDB, MSSQL, MySQL, PostgresSQL
+
+  - DevOps 
+
+    - AWS Lightsail 
+
+    - Maven, Gradle 
+
+    - Jenkins 
+
+    - Nginx, Tomcat 
+
+  - Frontend 
+
+    - HTML5, CSS3, JS(ES5)
+
+  - Collaboration 
+
+    - Jira & Confluence 
+
+    - Slack  
+
+- 📫 Contact 
 
   - Gmail : yh22953905@gmail.com
-  - GitHub : https://github.com/yh22953905/
-  - blog : https://k1my0unghan.tistory.com/
+  - GitHub : https://github.com/yh22953905/ 
