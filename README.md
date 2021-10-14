@@ -4,7 +4,7 @@
  
   - Java, Spring 으로 백엔드 개발을 합니다. 
 
-  - 2021년 8월 현재, 위 기술과 더불어 RDBMS, Elasticsearch, InfluxDB, Docker, Nginx 등의 기술을 쓰고 있습니다. 
+  - 위 기술과 더불어 RDBMS, Elasticsearch, InfluxDB, Docker, Nginx 등의 기술을 쓰고 있습니다. 
 
   - 유지 보수성을 생각한 코드, 리팩토링, TDD를 중요시합니다. 
 
