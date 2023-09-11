@@ -1,6 +1,6 @@
 - 👋 Introduction
 
-  - 안녕하세요. 3년차 개발자 김영한입니다. (2019.01 ~) 
+  - 안녕하세요. 5년차 개발자 김영한입니다. (2019.01 ~) 
  
   - Java, Spring 으로 백엔드 개발을 합니다. 
 
@@ -24,7 +24,7 @@
 
   - DevOps 
 
-    - AWS Lightsail 
+    - AWS 
 
     - Maven, Gradle 
 
